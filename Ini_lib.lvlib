@@ -15,10 +15,12 @@
 	<Item Name="InitCluster.vi" Type="VI" URL="../InitCluster.vi"/>
 	<Item Name="InitNum.vi" Type="VI" URL="../InitNum.vi"/>
 	<Item Name="InitRingValue.vi" Type="VI" URL="../InitRingValue.vi"/>
+	<Item Name="InitString.vi" Type="VI" URL="../InitString.vi"/>
 	<Item Name="InitTables.vi" Type="VI" URL="../InitTables.vi"/>
 	<Item Name="NumToIni.vi" Type="VI" URL="../NumToIni.vi"/>
 	<Item Name="PluginTypeArray.vi" Type="VI" URL="../PluginTypeArray.vi"/>
 	<Item Name="PopulateRings.vi" Type="VI" URL="../PopulateRings.vi"/>
 	<Item Name="RingsToIni.vi" Type="VI" URL="../RingsToIni.vi"/>
+	<Item Name="StringToIni.vi" Type="VI" URL="../StringToIni.vi"/>
 	<Item Name="TablesToIni.vi" Type="VI" URL="../TablesToIni.vi"/>
 </Library>
