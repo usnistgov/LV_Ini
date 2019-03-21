@@ -10,8 +10,10 @@
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="clTableData.ctl" Type="VI" URL="../typedefs/clTableData.ctl"/>
 	</Item>
+	<Item Name="BoolsToIni.vi" Type="VI" URL="../BoolsToIni.vi"/>
 	<Item Name="ClustersToIni.vi" Type="VI" URL="../ClustersToIni.vi"/>
 	<Item Name="IniFileArray.vi" Type="VI" URL="../IniFileArray.vi"/>
+	<Item Name="InitBoolValues.vi" Type="VI" URL="../InitBoolValues.vi"/>
 	<Item Name="InitCluster.vi" Type="VI" URL="../InitCluster.vi"/>
 	<Item Name="InitNum.vi" Type="VI" URL="../InitNum.vi"/>
 	<Item Name="InitRingValue.vi" Type="VI" URL="../InitRingValue.vi"/>
